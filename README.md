@@ -1,7 +1,7 @@
 Чугайнов Андрей Александрович
 =====================
 
-![Photo](https://github.com/chuga07/photo.jpeg)
+![Photo](https://github.com/chuga07/resume/blob/master/photo.jpeg)
 
 **Обо мне**
 Мужчина, 30 лет, родился 16 января 1990
